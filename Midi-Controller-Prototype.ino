@@ -1,6 +1,10 @@
 /*
-  This is a simple prototype for a Arduino Midi controller
-     
+  This is a simple and initial prototype for a Arduino Midi controller
+     All documentation about MIDI protocol are avalaible on the link below:
+       https://www.midi.org/specifications
+       
+  Author: Sadraque Nunes - sadraquenunesmartiniano@gmail.com
+                                                  10/03/2020     
 */
 
 #include <MIDI.h>
