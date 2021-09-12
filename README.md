@@ -1,2 +1,2 @@
-# Midi-Controller-Prototype
-A simple prototype for a Arduino Midi Controller
+# Arduino Midi Controller Prototype
+A prototype for a Arduino Midi Controller
